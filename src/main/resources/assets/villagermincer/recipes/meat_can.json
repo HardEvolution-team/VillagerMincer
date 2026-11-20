@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["S","S","I"],"key":{"I":{"item":"villagermincer:empty_can"},"S":{"item":"villagermincer:strange_meat"}},"result":{"item":"villagermincer:meat_can"}}

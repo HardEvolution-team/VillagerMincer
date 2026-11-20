@@ -1,0 +1,9 @@
+tile.villagermincer.super_mincer.name=スーパーミンチマシン
+item.villagermincer.strange_meat.name=奇妙な肉
+item.villagermincer.meat_can.name=肉の缶詰
+item.villagermincer.empty_can.name=空の缶詰
+item.villagermincer.emerald_can.name=エメラルド印の缶詰
+item.villagermincer.emerald_gun.name=エメラルドライフル
+item.villagermincer.super_emerald_can.name=スーパーエメラルド缶
+entity.villagermincer.emerald_bullet.name=エメラルド弾
+itemGroup.villagermincer=Mincer

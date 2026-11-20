@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["IQI","IEI","IQI"],"key":{"I":{"item":"minecraft:quartz"},"Q":{"item":"minecraft:iron_ingot"},"E":{"item":"minecraft:emerald"}},"result":{"item":"villagermincer:super_mincer","count":2}}

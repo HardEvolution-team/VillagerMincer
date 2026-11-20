@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "villagermincer:blocks/mincer",
+    "down": "villagermincer:blocks/mincer_bottom",
+    "up": "villagermincer:blocks/mincer_top",
+    "north": "villagermincer:blocks/mincer",
+    "south": "villagermincer:blocks/mincer",
+    "east": "villagermincer:blocks/mincer",
+    "west": "villagermincer:blocks/mincer"
+  }
+}

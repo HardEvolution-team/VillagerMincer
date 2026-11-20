@@ -1,0 +1,9 @@
+tile.villagermincer.super_mincer.name=Super Mincer
+item.villagermincer.strange_meat.name=Strange Meat
+item.villagermincer.meat_can.name=Meat Can
+item.villagermincer.empty_can.name=Empty Can
+item.villagermincer.emerald_can.name=Emerald Can
+item.villagermincer.emerald_gun.name=Emerald Rifle
+item.villagermincer.super_emerald_can.name=Super Emerald Can
+entity.villagermincer.emerald_bullet.name=Emerald Bullet
+itemGroup.villagermincer=Mincer
