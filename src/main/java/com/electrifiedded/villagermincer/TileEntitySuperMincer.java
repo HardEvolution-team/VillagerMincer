@@ -19,7 +19,7 @@ import java.util.Random;
  * Server-side only: the villager is simply pinned in place, nothing is stored in the villager's NBT.
  */
 public class TileEntitySuperMincer extends TileEntity implements ITickable {
-    private final Random rnd = new Random();
+    private final Random rnd = new com.electrifiedded.archaiclib.util.FastRandom();
     private EntityVillager villager;
     private int runTime;
     private int damageCount;

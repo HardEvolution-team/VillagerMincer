@@ -1,0 +1,18 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "villagermincer",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "villagermincer-v1.0.jar",
+      "name": "Villager Mincer for 1.6.x (by _jx)",
+      "sha256": "262f185dd076d1d3c99d1f6796976ef18ccddc11be4dd19ae781854fef9333fb",
+      "size": 92456,
+      "page": "https://modrinth.com/mod/villager-mincer",
+      "mirrors": [
+        "https://cdn.modrinth.com/data/nHxoCMfe/versions/aymofUby/villagermincer-v1.0.jar"
+      ]
+    }
+  ]
+}

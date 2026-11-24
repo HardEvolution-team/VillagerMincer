@@ -21,7 +21,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /** Port of VillagerMincer 1.6.2 (jx) to 1.12.2. */
-@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, dependencies = "required-after:archaiclib@[1.12.0,)")
+@Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, dependencies = "required-after:archaiclib@[1.40.0,)")
 @Mod.EventBusSubscriber(modid = Reference.MOD_ID)
 public class VillagerMincer {
     public static final Logger LOG = LogManager.getLogger(Reference.MOD_ID);
